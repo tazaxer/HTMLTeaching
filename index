@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Simple Forum Page</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Forum</h1>
+    <hr>
+    <h2>Latest Discussion</h2>
+    <h3>Post 1: Pws na ftiakseis HTML selida</h3>
+    <p>Discussion description...</p>
+    <p>By Nikos, Dennis</p>
+    <h2>Categories</h2>
+    <ul>
+      <li>Category 1: HTML</li>
+      <li>Category 2: CSS</li>
+      <li>Category 3: PHP</li>
+    </ul>
+    <hr>
+    <p>&copy; 2023 Simple Forum Page</p>
+  </body>
+</html>
